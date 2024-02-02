@@ -1,0 +1,6 @@
+# Ignore Files
+*.bit
+*.frames
+*.fasm
+*.json
+
