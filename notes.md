@@ -35,10 +35,10 @@ $ sudo cp xilinx/xc7a35t.bin /usr/share/nextpnr/xilinx-chipdb/
 ### replace above for xc7z020clg400-1 ###
 ```
 $ cd nextpnr-xilinx
-$ python3 xilinx/python/bbaexport.py --device xc7z020clg400-1 --bba xilinx/xc7z020clg400-1.bba
-$ ./build/bba/bbasm --l xilinx/xc7z020clg400-1.bba xilinx/xc7z020clg400-1.bin
+$ python3 xilinx/python/bbaexport.py --device xc7z020clg400-1 --bba xilinx/xc7z020.bba
+$ ./build/bba/bbasm --l xilinx/xc7z020.bba xilinx/xc7z020.bin
 $ sudo mkdir -p /usr/share/nextpnr/xilinx-chipdb
-$ sudo cp xilinx/xc7z020clg400-1.bin /usr/share/nextpnr/xilinx-chipdb/
+$ sudo cp xilinx/xc7z020.bin /usr/share/nextpnr/xilinx-chipdb/
 ```
 
 ### openFPGALoader ###

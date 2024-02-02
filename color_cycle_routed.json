@@ -60,7 +60,7 @@
         }
       },
       "cells": {
-        "$auto$alumacc.cc:485:replace_alu$1258.genblk1.slice[5].genblk1.carry4$split$muxcy0$PACKED_CARRY4$": {
+        "$auto$alumacc.cc:485:replace_alu$1614.genblk1.slice[5].genblk1.carry4$split$muxcy0$PACKED_CARRY4$": {
           "hide_name": 1,
           "type": "CARRY4",
           "parameters": {
@@ -129,7 +129,7 @@
             "DI0": [ 53379 ]
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.genblk1.slice[4].genblk1.carry4$split$muxcy0$PACKED_CARRY4$": {
+        "$auto$alumacc.cc:485:replace_alu$1614.genblk1.slice[4].genblk1.carry4$split$muxcy0$PACKED_CARRY4$": {
           "hide_name": 1,
           "type": "CARRY4",
           "parameters": {
@@ -198,7 +198,7 @@
             "DI0": [ 53362 ]
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.genblk1.slice[3].genblk1.carry4$split$muxcy0$PACKED_CARRY4$": {
+        "$auto$alumacc.cc:485:replace_alu$1614.genblk1.slice[3].genblk1.carry4$split$muxcy0$PACKED_CARRY4$": {
           "hide_name": 1,
           "type": "CARRY4",
           "parameters": {
@@ -267,7 +267,7 @@
             "DI0": [ 53345 ]
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.genblk1.slice[2].genblk1.carry4$split$muxcy0$PACKED_CARRY4$": {
+        "$auto$alumacc.cc:485:replace_alu$1614.genblk1.slice[2].genblk1.carry4$split$muxcy0$PACKED_CARRY4$": {
           "hide_name": 1,
           "type": "CARRY4",
           "parameters": {
@@ -336,7 +336,7 @@
             "DI0": [ 53328 ]
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.genblk1.slice[1].genblk1.carry4$split$muxcy0$PACKED_CARRY4$": {
+        "$auto$alumacc.cc:485:replace_alu$1614.genblk1.slice[1].genblk1.carry4$split$muxcy0$PACKED_CARRY4$": {
           "hide_name": 1,
           "type": "CARRY4",
           "parameters": {
@@ -405,7 +405,7 @@
             "DI0": [ 53311 ]
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.genblk1.slice[0].genblk1.carry4$split$muxcy0$PACKED_CARRY4$": {
+        "$auto$alumacc.cc:485:replace_alu$1614.genblk1.slice[0].genblk1.carry4$split$muxcy0$PACKED_CARRY4$": {
           "hide_name": 1,
           "type": "CARRY4",
           "parameters": {
@@ -1750,7 +1750,7 @@
             "A2": [ 53221 ]
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[0]$LUT$2": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[0]$LUT$2": {
           "hide_name": 1,
           "type": "SLICE_LUTX",
           "parameters": {
@@ -1778,7 +1778,7 @@
             "O6": [ 53292 ]
           }
         },
-        "$auto$ff.cc:266:slice$1690": {
+        "$auto$ff.cc:266:slice$2046": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -1812,7 +1812,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1698": {
+        "$auto$ff.cc:266:slice$2054": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -1846,7 +1846,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1703": {
+        "$auto$ff.cc:266:slice$2059": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -1925,7 +1925,7 @@
             "CE0": [ 53221 ]
           }
         },
-        "$auto$ff.cc:266:slice$1689": {
+        "$auto$ff.cc:266:slice$2045": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -1959,7 +1959,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1697": {
+        "$auto$ff.cc:266:slice$2053": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2025,7 +2025,7 @@
             "Y": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1688": {
+        "$auto$ff.cc:266:slice$2044": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2059,7 +2059,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1702": {
+        "$auto$ff.cc:266:slice$2058": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2093,7 +2093,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1696": {
+        "$auto$ff.cc:266:slice$2052": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2127,7 +2127,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1687": {
+        "$auto$ff.cc:266:slice$2043": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2184,7 +2184,7 @@
             "PAD": [ 52982 ]
           }
         },
-        "$auto$ff.cc:266:slice$1691": {
+        "$auto$ff.cc:266:slice$2047": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2241,7 +2241,7 @@
             "PAD": [ 52978 ]
           }
         },
-        "$auto$ff.cc:266:slice$1686": {
+        "$auto$ff.cc:266:slice$2042": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2275,7 +2275,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1695": {
+        "$auto$ff.cc:266:slice$2051": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2309,7 +2309,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1701": {
+        "$auto$ff.cc:266:slice$2057": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2343,7 +2343,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1685": {
+        "$auto$ff.cc:266:slice$2041": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2421,7 +2421,7 @@
             "PAD": [ 52687 ]
           }
         },
-        "$auto$ff.cc:266:slice$1694": {
+        "$auto$ff.cc:266:slice$2050": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2455,7 +2455,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1684": {
+        "$auto$ff.cc:266:slice$2040": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2489,7 +2489,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1699": {
+        "$auto$ff.cc:266:slice$2055": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2523,7 +2523,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1700": {
+        "$auto$ff.cc:266:slice$2056": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2578,7 +2578,7 @@
             "OUT": [ 52978 ]
           }
         },
-        "$auto$ff.cc:266:slice$1683": {
+        "$auto$ff.cc:266:slice$2039": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2612,7 +2612,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1693": {
+        "$auto$ff.cc:266:slice$2049": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2646,7 +2646,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1681": {
+        "$auto$ff.cc:266:slice$2037": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2680,7 +2680,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1682": {
+        "$auto$ff.cc:266:slice$2038": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2714,7 +2714,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1704": {
+        "$auto$ff.cc:266:slice$2060": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2748,7 +2748,7 @@
             "SR": [ 53219 ]
           }
         },
-        "$auto$ff.cc:266:slice$1692": {
+        "$auto$ff.cc:266:slice$2048": {
           "hide_name": 1,
           "type": "SLICE_FFX",
           "parameters": {
@@ -2803,7 +2803,7 @@
             "OUT": [ 52975 ]
           }
         },
-        "$abc$2201$lut$not$aiger2200$1": {
+        "$abc$2557$lut$not$aiger2556$1": {
           "hide_name": 1,
           "type": "SLICE_LUTX",
           "parameters": {
@@ -3034,14 +3034,14 @@
             "ROUTING": "SITEWIRE/SLICE_X112Y107/ACY0_OUT;SITEPIP/SLICE_X112Y107/ACY0/A5LUT_O5;1;SITEWIRE/SLICE_X112Y107/A5LUT_O5;;1"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[0]$legal$1": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[0]$legal$1": {
           "hide_name": 1,
           "bits": [ 53292 ] ,
           "attributes": {
             "ROUTING": "SITEWIRE/SLICE_X112Y107/A6LUT_O6;;1"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[16]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[16]": {
           "hide_name": 1,
           "bits": [ 52820 ] ,
           "attributes": {
@@ -3089,7 +3089,7 @@
             "src": "color_cycle.v:14.16-14.20"
           }
         },
-        "$abc$2201$aiger2200$69": {
+        "$abc$2557$aiger2556$69": {
           "hide_name": 1,
           "bits": [ 52809 ] ,
           "attributes": {
@@ -3149,7 +3149,7 @@
             "src": "color_cycle.v:14.16-14.20"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[15]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[15]": {
           "hide_name": 1,
           "bits": [ 52800 ] ,
           "attributes": {
@@ -3158,7 +3158,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[14]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[14]": {
           "hide_name": 1,
           "bits": [ 52799 ] ,
           "attributes": {
@@ -3167,7 +3167,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[13]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[13]": {
           "hide_name": 1,
           "bits": [ 52798 ] ,
           "attributes": {
@@ -3176,7 +3176,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[12]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[12]": {
           "hide_name": 1,
           "bits": [ 52797 ] ,
           "attributes": {
@@ -3193,7 +3193,7 @@
             "src": "color_cycle.v:14.16-14.20"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[23]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[23]": {
           "hide_name": 1,
           "bits": [ 52846 ] ,
           "attributes": {
@@ -3202,7 +3202,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[22]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[22]": {
           "hide_name": 1,
           "bits": [ 52845 ] ,
           "attributes": {
@@ -3211,7 +3211,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[21]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[21]": {
           "hide_name": 1,
           "bits": [ 52844 ] ,
           "attributes": {
@@ -3220,7 +3220,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[20]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[20]": {
           "hide_name": 1,
           "bits": [ 52843 ] ,
           "attributes": {
@@ -3229,7 +3229,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$abc$2201$aiger2200$61": {
+        "$abc$2557$aiger2556$61": {
           "hide_name": 1,
           "bits": [ 52786 ] ,
           "attributes": {
@@ -3289,7 +3289,7 @@
             "src": "color_cycle.v:14.16-14.20"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[11]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[11]": {
           "hide_name": 1,
           "bits": [ 52777 ] ,
           "attributes": {
@@ -3298,7 +3298,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[10]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[10]": {
           "hide_name": 1,
           "bits": [ 52776 ] ,
           "attributes": {
@@ -3307,7 +3307,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[9]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[9]": {
           "hide_name": 1,
           "bits": [ 52775 ] ,
           "attributes": {
@@ -3316,7 +3316,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[8]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[8]": {
           "hide_name": 1,
           "bits": [ 52774 ] ,
           "attributes": {
@@ -3348,7 +3348,7 @@
             "src": "color_cycle.v:3.17-3.20"
           }
         },
-        "$abc$2201$iopadmap$clk_i": {
+        "$abc$2557$iopadmap$clk_i": {
           "hide_name": 1,
           "bits": [ 52975 ] ,
           "attributes": {
@@ -3363,7 +3363,7 @@
             "src": "color_cycle.v:13.9-13.15"
           }
         },
-        "$abc$2201$aiger2200$53": {
+        "$abc$2557$aiger2556$53": {
           "hide_name": 1,
           "bits": [ 52763 ] ,
           "attributes": {
@@ -3423,7 +3423,7 @@
             "src": "color_cycle.v:14.16-14.20"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[7]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[7]": {
           "hide_name": 1,
           "bits": [ 52754 ] ,
           "attributes": {
@@ -3432,7 +3432,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[6]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[6]": {
           "hide_name": 1,
           "bits": [ 52753 ] ,
           "attributes": {
@@ -3441,7 +3441,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[5]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[5]": {
           "hide_name": 1,
           "bits": [ 52752 ] ,
           "attributes": {
@@ -3450,7 +3450,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[4]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[4]": {
           "hide_name": 1,
           "bits": [ 52751 ] ,
           "attributes": {
@@ -3459,7 +3459,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$abc$2201$aiger2200$77": {
+        "$abc$2557$aiger2556$77": {
           "hide_name": 1,
           "bits": [ 52832 ] ,
           "attributes": {
@@ -3496,7 +3496,7 @@
             "src": "color_cycle.v:14.16-14.20"
           }
         },
-        "$abc$2201$aiger2200$45": {
+        "$abc$2557$aiger2556$45": {
           "hide_name": 1,
           "bits": [ 52740 ] ,
           "attributes": {
@@ -3548,7 +3548,7 @@
             "src": "color_cycle.v:14.16-14.20"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[3]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[3]": {
           "hide_name": 1,
           "bits": [ 52728 ] ,
           "attributes": {
@@ -3557,7 +3557,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[2]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[2]": {
           "hide_name": 1,
           "bits": [ 52726 ] ,
           "attributes": {
@@ -3566,7 +3566,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[1]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[1]": {
           "hide_name": 1,
           "bits": [ 52724 ] ,
           "attributes": {
@@ -3575,7 +3575,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$abc$2201$aiger2200$30": {
+        "$abc$2557$aiger2556$30": {
           "hide_name": 1,
           "bits": [ 52722 ] ,
           "attributes": {
@@ -3607,7 +3607,7 @@
             "src": "color_cycle.v:14.16-14.20"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[19]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[19]": {
           "hide_name": 1,
           "bits": [ 52823 ] ,
           "attributes": {
@@ -3616,7 +3616,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[18]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[18]": {
           "hide_name": 1,
           "bits": [ 52822 ] ,
           "attributes": {
@@ -3625,7 +3625,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$abc$2201$aiger2200$37": {
+        "$abc$2557$aiger2556$37": {
           "hide_name": 1,
           "bits": [ 52706 ] ,
           "attributes": {
@@ -3653,7 +3653,7 @@
             "ROUTING": "SITEWIRE/SLICE_X112Y110/D6LUT_O6;;1"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[17]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[17]": {
           "hide_name": 1,
           "bits": [ 52821 ] ,
           "attributes": {
@@ -3662,7 +3662,7 @@
             "force_downto": "00000000000000000000000000000001"
           }
         },
-        "$auto$alumacc.cc:485:replace_alu$1258.Y[0]": {
+        "$auto$alumacc.cc:485:replace_alu$1614.Y[0]": {
           "hide_name": 1,
           "bits": [ 52693 ] ,
           "attributes": {
